@@ -1,0 +1,21 @@
+body{
+    color: aliceblue;
+}
+
+.navbar {
+    color: aliceblue;
+    background-color: Gray;
+}
+.margin {
+    padding-bottom: 50px;
+    padding-top: 15px;
+}
+.font{
+    text-align: justify;
+}
+#parceiros, #servicos, #contato{
+    background-color: gray;
+}
+#navbarNav, #corfont{
+    color: aliceblue;
+}
